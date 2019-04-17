@@ -17,7 +17,7 @@
 #
 # Include in your builds via
 # \curl -sSL https://raw.githubusercontent.com/codeship/scripts/master/packages/phantomjs.sh | bash -s
-PHANTOMJS_VERSION=${PHANTOMJS_VERSION:="1.9.8"}
+PHANTOMJS_VERSION=${PHANTOMJS_VERSION:="2.1.1"}
 PHANTOMJS_HOST=${PHANTOMJS_HOST:="https://bitbucket.org/ariya/phantomjs/downloads"}
 
 set -e
